@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://YanniPapandreou.github.io/sitemap.xml
