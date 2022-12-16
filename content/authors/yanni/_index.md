@@ -81,7 +81,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a third year PhD student in Statistics at Imperial College London, under the joint supervision of [Dr Andrew Duncan](https://www.imperial.ac.uk/people/a.duncan) and [Jon Cockayne](https://www.southampton.ac.uk/people/5z6tk6/doctor-jon-cockayne). I obtained an MSc in Statistics in 2019 from Imperial College London and a BA in Mathematics in 2018 from the University of Cambridge.
+I am a third year PhD student in Statistics at Imperial College London, under the joint supervision of [Dr Andrew Duncan](https://www.imperial.ac.uk/people/a.duncan) and [Dr Jon Cockayne](https://www.southampton.ac.uk/people/5z6tk6/doctor-jon-cockayne). I obtained an MSc in Statistics in 2019 from Imperial College London and a BA in Mathematics in 2018 from the University of Cambridge.
 
 My current research is focused on the Bayesian formulation of PDE-based models with an aim towards physics-informed machine learning. I have also worked on kernel-based methods for inference of complex models.
 
